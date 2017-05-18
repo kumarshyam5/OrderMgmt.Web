@@ -1,0 +1,9 @@
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.DTO\bin\Debug\Interview.ManageOrders.DTO.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.DTO\bin\Debug\Interview.ManageOrders.DTO.pdb
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.DTO\obj\Debug\Interview.ManageOrders.DTO.csprojResolveAssemblyReference.cache
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.DTO\obj\Debug\Interview.ManageOrders.DTO.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.DTO\obj\Debug\Interview.ManageOrders.DTO.pdb
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.DTO\bin\Debug\Interview.ManageOrders.BusinessEntities.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.DTO\bin\Debug\EntityFramework.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.DTO\bin\Debug\Interview.ManageOrders.BusinessEntities.pdb
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.DTO\bin\Debug\EntityFramework.xml

@@ -1,0 +1,131 @@
+﻿@model  IEnumerable<Interview.ManageOrders.Web.ViewModels.OrderViewModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+  
+
+}
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>  
+
+<h2>Index</h2>
+
+
+<div class="row">
+
+ 
+   
+        <table class="table table-responsive table-hover">
+            <tr>
+                <th>
+                    @Html.DisplayName("Order ID")
+                </th>
+                <th>
+                    @Html.DisplayName("AccountNumber")
+                </th>
+                <th>
+                    @Html.DisplayName("CustomerName")
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrdersID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AccountNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CustomerName)
+                </td>
+
+            </tr>
+            }
+
+        </table>
+   
+
+  
+
+   
+</div>
+
+<div class="row">
+
+    @* One way of using Ajax
+
+    @using (Ajax.BeginForm("ViewAll", "Order", new AjaxOptions { HttpMethod = "GET", UpdateTargetId = "divOrders" }, new { @class = "pull-left" }))
+    {
+        <input type="submit" value="View All" class="btn btn-default" />
+    }
+
+    *@
+
+    <button  class="btn btn-primary pull-left" id="btnGetOrders" >Get Orders</button>
+
+</div>
+
+<div class="row" id="divOrders">
+
+</div>
+
+@section scripts
+{
+
+    <script>
+
+        /* Other way of using Ajax call */
+
+        $(document).ready(function () {
+
+            $("#btnGetOrders").click(function () {
+
+                if ($("#btnGetOrders").text() == 'Collapse')
+                {
+                    $('#divOrders').hide();
+                    $("#btnGetOrders")
+                           .removeClass("btn-default")
+                           .addClass("btn-primary").text("Get Orders");
+                   
+                }
+                else {
+                    $.ajax({
+                        url: "/Order/ViewAll",
+                        contentType: "application/xml",
+                        type: "GET",
+                        dataType: "html"
+                    })
+                    .success(function (result) {
+
+                        $("#btnGetOrders")
+                            .removeClass("btn-primary")
+                            .addClass("btn-default").text("Collapse");
+
+                        $('#divOrders').show();
+                        $('#divOrders').html(result);
+
+                    })
+                    .error(function () {
+
+                        alert("Oops.. something went wrong");
+
+                    });
+                }
+
+            });
+
+        });
+
+    </script>
+   
+    
+   }
+
+
+
+

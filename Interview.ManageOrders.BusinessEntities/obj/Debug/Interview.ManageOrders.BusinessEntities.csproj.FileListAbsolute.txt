@@ -1,0 +1,10 @@
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessEntities\bin\Debug\Interview.ManageOrders.BusinessEntities.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessEntities\bin\Debug\Interview.ManageOrders.BusinessEntities.pdb
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessEntities\obj\Debug\Interview.ManageOrders.BusinessEntities.csprojResolveAssemblyReference.cache
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessEntities\obj\Debug\Interview.ManageOrders.BusinessEntities.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessEntities\obj\Debug\Interview.ManageOrders.BusinessEntities.pdb
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessEntities\bin\Debug\Interview.ManageOrders.BusinessEntities.dll.config
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessEntities\bin\Debug\EntityFramework.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessEntities\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessEntities\bin\Debug\EntityFramework.xml
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessEntities\bin\Debug\EntityFramework.SqlServer.xml

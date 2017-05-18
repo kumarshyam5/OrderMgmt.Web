@@ -1,0 +1,13 @@
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\bin\Debug\Interview.ManageOrders.BusinessServices.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\bin\Debug\Interview.ManageOrders.BusinessServices.pdb
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\obj\Debug\Interview.ManageOrders.BusinessServices.csprojResolveAssemblyReference.cache
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\obj\Debug\Interview.ManageOrders.BusinessServices.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\obj\Debug\Interview.ManageOrders.BusinessServices.pdb
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\bin\Debug\Interview.ManageOrders.BusinessEntities.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\bin\Debug\EntityFramework.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\bin\Debug\Interview.ManageOrders.BusinessEntities.pdb
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\bin\Debug\EntityFramework.xml
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\bin\Debug\AutoMapper.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\bin\Debug\Interview.ManageOrders.DTO.dll
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\bin\Debug\Interview.ManageOrders.DTO.pdb
+c:\users\shreyu\documents\visual studio 2015\Projects\Interview.ManageOrders.Web\Interview.ManageOrders.BusinessServices\bin\Debug\AutoMapper.xml

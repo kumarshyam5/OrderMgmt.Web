@@ -1,0 +1,28 @@
+﻿@model  IEnumerable<Interview.ManageOrders.Web.ViewModels.OrderViewModel>
+<p>
+
+</p>
+
+<textarea class="form-control" style="resize:none;min-height:390px;min-width:200px;">
+
+    @foreach (var item in Model)
+    {
+        @Html.DisplayName("OrdersID") @Html.Raw(":")  @Html.DisplayFor(modelItem => item.OrdersID)
+        @Html.Raw("\n")
+        @Html.DisplayName("AccountNumber")  @Html.Raw(":") @Html.DisplayFor(modelItem => item.AccountNumber)
+        @Html.Raw("\n")
+        @Html.DisplayName("CustomerName")  @Html.Raw(":") @Html.DisplayFor(modelItem => item.CustomerName)
+        @Html.Raw("\n")
+        @Html.DisplayName("Services")  @Html.Raw(":") @Html.DisplayFor(modelItem => item.ServiceTypes)
+        @Html.Raw("\n")
+        @Html.Raw("\n")
+    }
+
+</textarea>
+
+
+     
+
+
+
+
